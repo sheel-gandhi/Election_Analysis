@@ -3,7 +3,7 @@ Election Analysis using Python
 
 ## Overview of Election Audit
 
-Tom, a Colorado Board of Elections employee needs our help with auditing and analysing the tabulated elections results for a US Congressional Election in a precinct in Colorado. The purpose of the Audit will be to get the total number of votes cast, votes cast in each county and its percentage in total votes and number of votes for each candidate and its percentage in total votes. At the end, we will be able to determine county with maximum number of votes and candidate with maximum number of votes with its votes and percentage. 
+Tom, a Colorado Board of Elections employee needs our help with auditing and analysing the tabulated elections results for a US Congressional Election in a precinct in Colorado. The purpose of the Audit will be to get the total number of votes cast, votes cast in each county and its percentage in total votes, and number of votes for each candidate and its percentage in total votes. At the end, we will be able to determine county with maximum number of votes and candidate with maximum number of votes with its votes and percentage. 
 
 Considering the large amount of data in hand, we will be using Python and its automated process to achieve our outcomes. A successful Python process going forward can also help in auditing Senatorial Districts Elections and Local Elections. 
 
@@ -11,34 +11,34 @@ Considering the large amount of data in hand, we will be using Python and its au
 
 ***Total number of votes cast in congressional election***
                     
-   * Total votes cast in the congressional election is 369,711.
+   * Total votes cast in the congressional election is `369,711`.
 
 ***Breakdown of the number of votes and the percentage of total votes for each county in the precinct***
 
-   * Jefferson County has a total of 38,855 votes which is 10.5% of the total vote count. 
-   * Denver County has 306,055 votes which is 82.8% of the total vote count.
-   * Arapahoe County has 24,801 votes which is 6.7% of the total vote count.
+   * Jefferson County has a total of `38,855` votes which is `10.5%` of the total vote count. 
+   * Denver County has `306,055` votes which is `82.8%` of the total vote count.
+   * Arapahoe County has `24,801` votes which is `6.7%` of the total vote count.
   
 
 ***County with the largest number of votes***
   
-  * Denver County is the Largest County
-  * Denver County has the largest number of votes with 306,055 votes.
-  * Denver County has the largest percentage votes at 82.8%
+  * `Denver` County is the Largest County.
+  * Denver County has the largest number of votes with `306,055` votes.
+  * Denver County has the largest vote percentage at `82.8%`.
    
 
 ***Breakdown of the number of votes and the percentage of the total votes each candidate received***
 
-  * Charles Casper Stockham received a total of 85,213 votes which was 23.0% of total votes.
-  * Diana DeGette received 272,892 votes which is 73.8% of total votes.
-  * Raymon Anthony Doane received 11,606 votes which is 3.1% of total vote count.
+  * Charles Casper Stockham received a total of `85,213` votes which is `23.0%` of total votes.
+  * Diana DeGette received `272,892` votes which is `73.8%` of total votes.
+  * Raymon Anthony Doane received `11,606` votes which is `3.1%` of total vote count.
 
 
 ***Winning Candidate, their vote count, and their percentage of the total votes***
 
-  * Diana DeGette is the winning candidate
-  * Diana DeGette received highest number of votes with 272,892 votes  
-  * She received 73.8% of the total votes cast. 
+  * `Diana DeGette` is the winning candidate
+  * Diana DeGette received highest number of votes with `272,892` votes.  
+  * She received `73.8%` of the total votes cast. 
 
 ## Election-Audit Results Method
 
