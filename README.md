@@ -7,6 +7,8 @@ Tom, a Colorado Board of Elections employee needs our help with auditing and ana
 
 Considering the large amount of data in hand, we will be using Python and its automated process to achieve our outcomes. A successful Python process going forward can also help in auditing Senatorial Districts Elections and Local Elections. 
 
+Software Used: Python, Visual Studio Code
+
 ## Election-Audit Results
 
 ***Total number of votes cast in congressional election***
